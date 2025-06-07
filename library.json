@@ -1,10 +1,10 @@
 [
-    {
-      'title': 'کتاب اول',
-      'url': 'https://dl3.takbook.com/pdf3/ebook10829[www.takbook.com].pdf'
-    },
-    {
-      'title': 'کتاب دوم',
-      'url': 'https://cdn.persianpdf.com/1403-10/boreshha.pdf'
-    }
-  ]
+  {
+    "title": "کتاب اول",
+    "url": "https://dl3.takbook.com/pdf3/ebook10829[www.takbook.com].pdf"
+  },
+  {
+    "title": "کتاب دوم",
+    "url": "https://cdn.persianpdf.com/1403-10/boreshha.pdf"
+  }
+]
